@@ -9,5 +9,5 @@ IMPORTANTE: Fix somente aplicado se EXECUTAR COMO ADMINISTRADOR
 
 Fix to error 0x00000709 , 0x0000007c and 0x0000011b from Windows.
 
-IMPORTANT: Fix only applied if you run as administrator
+IMPORTANT: Fix only applied if you RUN AS ADMINISTRATOR
 
